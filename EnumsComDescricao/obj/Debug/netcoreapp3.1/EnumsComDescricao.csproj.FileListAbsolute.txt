@@ -1,0 +1,11 @@
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\bin\Debug\netcoreapp3.1\EnumsComDescricao.exe
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\bin\Debug\netcoreapp3.1\EnumsComDescricao.deps.json
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\bin\Debug\netcoreapp3.1\EnumsComDescricao.runtimeconfig.json
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\bin\Debug\netcoreapp3.1\EnumsComDescricao.runtimeconfig.dev.json
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\bin\Debug\netcoreapp3.1\EnumsComDescricao.dll
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\bin\Debug\netcoreapp3.1\EnumsComDescricao.pdb
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\obj\Debug\netcoreapp3.1\EnumsComDescricao.csprojAssemblyReference.cache
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\obj\Debug\netcoreapp3.1\EnumsComDescricao.AssemblyInfoInputs.cache
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\obj\Debug\netcoreapp3.1\EnumsComDescricao.AssemblyInfo.cs
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\obj\Debug\netcoreapp3.1\EnumsComDescricao.dll
+E:\Docs\estudo\csharp\Enums\EnumsComDescricao\obj\Debug\netcoreapp3.1\EnumsComDescricao.pdb

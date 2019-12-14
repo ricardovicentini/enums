@@ -1,0 +1,11 @@
+E:\Docs\estudo\csharp\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+E:\Docs\estudo\csharp\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+E:\Docs\estudo\csharp\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+E:\Docs\estudo\csharp\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+E:\Docs\estudo\csharp\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+E:\Docs\estudo\csharp\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+E:\Docs\estudo\csharp\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+E:\Docs\estudo\csharp\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+E:\Docs\estudo\csharp\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+E:\Docs\estudo\csharp\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+E:\Docs\estudo\csharp\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
